@@ -1,0 +1,21 @@
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.container {
+    display: flex;
+}
